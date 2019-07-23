@@ -1100,7 +1100,7 @@ header {
   z-index: 999;
   left: 0;
   right: 0;
-  height: 80px;
+  height: 90px;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -1109,7 +1109,7 @@ header {
   header {
     position: relative;
     top: 0;
-    height: 55px;
+    height: 90px;
     margin-top: 0px;
     margin-bottom: 0px;
     overflow: hidden;
@@ -1119,13 +1119,13 @@ header {
 /* line 21, ../../sass/_header.scss */
 .brand, .nav {
   text-align: right;
-  width: auto;
+  width: auto;   
   z-index: 9;
 }
 
 /* line 26, ../../sass/_header.scss */
 .brand {
-  margin: 0;
+  margin: 0;   
   height: 100%;
   float: left;
 }
